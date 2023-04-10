@@ -85,7 +85,8 @@ input[type="checkbox"]:checked {
 }
 
 .header img {
-    max-width: 30%;
+    width: 1100px;
+    max-width: 40%;
 }
 
 .header .contact {
